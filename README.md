@@ -39,4 +39,5 @@ python3 degree.py
 - https://clang.llvm.org/extra/clang-tidy/
 - https://sigmdel.ca/michel/ha/esp8266/super_mini_esp32c3_en.html
 - https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/ledc.html
+- https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_wifi.html
 - https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/freertos.html
